@@ -27,12 +27,12 @@ To get the Output:
 - Open the program file named \"a_star_vipul_poojan.py in any IDE. 
 - Run the Program 
 
-- In the Console, the program asks for: \-
-- Robot clearence space \-
-- Robot Radius \-
-- Robot Step Size \-
-- The x and y coordinates of Start and orientation of robot at start node. \-
-- The x and y coordinates of Goal and orientation of robot at Goal node.  
+- In the Console, the program asks for: 
+- Robot clearence space 
+- Robot Radius 
+- Robot Step Size (Enter integer between 1 to 10).
+- The x and y coordinates of Start and orientation of robot at start node(Angle should be a multiple of 30). 
+- The x and y coordinates of Goal and orientation of robot at Goal node(Angle should be a multiple of 30).  
 Enter as prompted. Ex: Robot clearence space: 5, Robot Radius: 5 (As per requriement); Step size: 1; Start node(x and y): 50, 50; Initial orientation: 90; Goal node (x and y): 400, 20; Final orientation : 60. 
 - The Output Plot with planned Path should be Visible.
 
